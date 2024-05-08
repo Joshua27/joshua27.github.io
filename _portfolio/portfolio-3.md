@@ -32,6 +32,6 @@ One just wants to describe the problem at hand without implementing the actual d
 We therefore consider constraint programming to be appropriate for implementing general test data generators.
 However, generating synthetic data remains a complex task as it involves thoroughly specifying constraints the data needs to fulfill in order to derive high quality test data.
 
-This project was a joint work of the University of Düsseldorf, the Niederrhein University of Applied Sciences and the periplus instruments GmbH & Co. KG.
+This project was a joint work of the University of Düsseldorf, the Niederrhein University of Applied Sciences and the [periplus instruments GmbH & Co. KG](https://www.periplus.eu/).
 
 The code can be found on Github: [https://github.com/wysiib/clpstr](https://github.com/wysiib/clpstr)

@@ -1,5 +1,5 @@
 ---
-title: "Theses"
+title: "Supervised Theses"
 collection: teaching
 type: "Undergraduate and Postgraduate course"
 permalink: /teaching/theses
