@@ -12,7 +12,7 @@ I am a software engineer and data scientist working as a postdoctoral research a
 I started studying computer science and mathematics at the University of Düsseldorf in 2012.
 In 2015, I joined the STUPS group as a student assistant under the supervision of Prof. Dr. Michael Leuschel after finishing my bachelor's degree.
 I completed my master's degree in close collaboration with the STUPS group in 2017.
-Afterward, I began working as a full-time research associate at the STUPS group and started my Ph.D. studies in 2018.
+Afterward, I began working as a full-time research associate at the STUPS group and started my doctoral studies in 2018.
 During that time, we also started an interdisciplinary project ("VertiGo") with the University Hospital in Düsseldorf.
 Here, we implemented a smartphone app for the diagnostic and theray of dizziness patients.
 In 2023, I received my doctorate in the field of formal software engineering.
