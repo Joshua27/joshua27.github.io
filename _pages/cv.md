@@ -46,7 +46,7 @@ Work experience
 
 Patents
 ======
-* a patent application was filed with the Deutsches Patent- und Markenamt (DPMA) on February 22, 2023 with the file number: 10 2023 104 370.6 and the title "Verfahren zum Erfassen und Auswerten der Pupillenbewegungen eines Lebewesens, mobiles Gerät, Computerprogrammprodukt und computerlesbares Medium"
+* a patent application was filed with the Deutsches Patent- und Markenamt (DPMA) on February 22, 2023 with the file number 10 2023 104 370.6 and the title "Verfahren zum Erfassen und Auswerten der Pupillenbewegungen eines Lebewesens, mobiles Gerät, Computerprogrammprodukt und computerlesbares Medium"
 * a PCT application to internationalize the above patent application was filed in February 2024
 
 Skills
