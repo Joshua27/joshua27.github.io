@@ -10,7 +10,7 @@ redirect_from:
 I am a software engineer and data scientist working as a postdoctoral research associate at the [chair of software engineering and programming languages (STUPS)](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen.html) at the University of Düsseldorf.
 
 I started studying computer science and mathematics at the University of Düsseldorf in 2012.
-In 2015, I joined the STUPS group under the supervision of Prof. Dr. Michael Leuschel as a student assistant after finishing my bachelor's degree.
+In 2015, I joined the STUPS group as a student assistant under the supervision of Prof. Dr. Michael Leuschel after finishing my bachelor's degree.
 I completed my master's degree in close collaboration with the STUPS group in 2017.
 Afterward, I began working as a full-time research associate at the STUPS group and started my Ph.D. studies in 2018.
 During that time, we also started an interdisciplinary project ("VertiGo") with the University Hospital in Düsseldorf.
