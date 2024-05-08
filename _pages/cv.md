@@ -17,16 +17,6 @@ Education
 
 Work experience
 ======
-* August 2016 - September 2017: Software Developer
-  * Employer: University of Düsseldorf
-  * Project: "Planungswerkzeug für überschneidungsfreies Studieren"
-  * Website: [https://plues.github.io](https://plues.github.io)
-  * Used skills: Java, JavaFX, software testing and Clojure
-
-* April 2018 - Juli 2018: Freelance Software Developer
-  * Client: Orthomol pharmazeutische Vertriebs GmbH
-  * Used skills: Kotlin, MySql, software testing and project management
-
 * October 2017 until today: Researcher
   * Employer: University of Düsseldorf
   * Duties included: Research and teaching in formal methods, software engineering and artificial intelligence
@@ -44,8 +34,26 @@ Work experience
   * Supervisor: Prof. Dr. Michael Leuschel
   * joint work with the University Hospital of Düsseldorf, Prof. Dr. med. Dr. h.c. Jörg Schipper
 
+* April 2018 - Juli 2018: Freelance Software Developer
+  * Client: Orthomol pharmazeutische Vertriebs GmbH
+  * Used skills: Kotlin, MySql, software testing and project management
+
+* August 2016 - September 2017: Software Developer
+  * Employer: University of Düsseldorf
+  * Project: "Planungswerkzeug für überschneidungsfreies Studieren"
+  * Website: [https://plues.github.io](https://plues.github.io)
+  * Used skills: Java, JavaFX, software testing and Clojure
+
+Patents
+======
+* a patent application was filed with the Deutsches Patent- und Markenamt (DPMA) on February 22, 2023 with the file number: 10 2023 104 370.6 and the title "Verfahren zum Erfassen und Auswerten der Pupillenbewegungen eines Lebewesens, mobile Gerät, Computerprogrammprodukt und computerlesbares Medium"
+* a PCT application to internationalize the above patent application was filed in February 2024
+
 Skills
 ======
+- languages
+  - German, native
+  - English, fluent
 - software development
   - Java, JavaFX, Kotlin, Android
   - Python
