@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. (Dr. rer. nat) in Computer Science, University of Düsseldorf, 2023 (magna cum laude)
+* Dr. rer. nat. in Computer Science, University of Düsseldorf, 2023 (magna cum laude)
 * M.S. in Computer Science, University of Düsseldorf, 2017
 * B.S. in Computer Science, University of Düsseldorf, 2015
 
