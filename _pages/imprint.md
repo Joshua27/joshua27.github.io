@@ -5,9 +5,11 @@ permalink: /imprint.html
 ---
 
 # Beitreiber gemäß § 5 TMG:
-Joshua Schmidt
-Institut für Informatik
-Universitätsstraße 1
+Joshua Schmidt<br>
+Institut für Informatik<br>
+Gebäude 25.12<br>
+Raum 02.52<br>
+Universitätsstraße 1<br>
 40225 Düsseldorf
 
 # Kontakt
