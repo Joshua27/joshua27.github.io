@@ -1,5 +1,5 @@
 ---
-title: "Imprint"
+title: "Impressum"
 sitemap: false
 permalink: /imprint.html
 ---
