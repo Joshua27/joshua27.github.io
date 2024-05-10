@@ -1,6 +1,6 @@
 ---
 title: "PlÜS - Scheduling Tool for overlapping-free studying"
-excerpt: "PlÜS is a timetable validation tool created with the goal of importing, validating and improving existing university timetables at the University of Düsseldorf. This project was an interdisciplinary joint work with the Faculty of Arts and Humanities at the University of Düsseldorf.<br/><img width='30%' src='/images/plues.png'>"
+excerpt: "PlÜS is a timetable validation tool created with the goal of importing, validating and improving existing university timetables at the University of Düsseldorf. This project was an interdisciplinary joint work with the Faculty of Arts and Humanities at the University of Düsseldorf.<br/><br/><img width='30%' src='/images/plues.png'>"
 collection: portfolio
 ---
 

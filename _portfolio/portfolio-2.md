@@ -1,6 +1,6 @@
 ---
 title: "VertiGo - Ad-hoc medical help for dizziness patients on mobile devices using AI"
-excerpt: "In the VertiGo project, a mobile videonystagmography for smartphones has been developed, which can be used independently without medical specialists, regardless of time and location. This project was an interdisciplinary joint work with the University Hospital of Düsseldorf.<br/><img width='30%' src='/images/vertigo-logo.png'>"
+excerpt: "In the VertiGo project, a mobile videonystagmography for smartphones has been developed, which can be used independently without medical specialists, regardless of time and location. This project was an interdisciplinary joint work with the University Hospital of Düsseldorf.<br/><br/><img width='30%' src='/images/vertigo-logo.png'>"
 collection: portfolio
 ---
 

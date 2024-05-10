@@ -1,6 +1,6 @@
 ---
 title: "ProBramSynthesis - Program Synthesis for B in ProB"
-excerpt: "In this project, I implemented a program synthesis technique in ProB using constraint logic programming for the interactive repair and generation of formal models including a graphical user interface.<br/><img width='30%' src='/images/bsynthesis-example.png'>"
+excerpt: "In this project, I implemented a program synthesis technique in ProB using constraint logic programming for the interactive repair and generation of formal models including a graphical user interface.<br/><br/><img width='30%' src='/images/bsynthesis-example.png'>"
 collection: portfolio
 ---
 

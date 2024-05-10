@@ -1,6 +1,6 @@
 ---
 title: "The ProB Animator and Model Checker"
-excerpt: "ProB is an animator, constraint solver and model checker for the B-Method. The constraint-solving capabilities of ProB can be used for animation, model finding, constraint-based symbolic checking and test-case generation.<br/><img width='30%' src='/images/prob-logo.png'>"
+excerpt: "ProB is an animator, constraint solver and model checker for the B-Method. The constraint-solving capabilities of ProB can be used for animation, model finding, constraint-based symbolic checking and test-case generation.<br/><br/><img width='30%' src='/images/prob-logo.png'>"
 collection: portfolio
 ---
 

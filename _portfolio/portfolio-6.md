@@ -1,6 +1,6 @@
 ---
 title: "Fuzzing of Prolog Programs"
-excerpt: "In this project, I implemented a fuzzer for SICStus Prolog including an extension to generate classical B and Event-B predicates and expressions represented as abstract syntax trees.<br/><img width='30%' src='/images/b-ast.png'>"
+excerpt: "In this project, I implemented a fuzzer for SICStus Prolog including an extension to generate classical B and Event-B predicates and expressions represented as abstract syntax trees.<br/><br/><img width='30%' src='/images/b-ast.png'>"
 collection: portfolio
 ---
 

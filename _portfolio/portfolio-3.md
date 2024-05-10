@@ -1,6 +1,6 @@
 ---
 title: "ConString - A string constraint solver for SWI-Prolog"
-excerpt: "In this project, we introduced a new string constraint solver for SWI-Prolog having interfaces to CLP(FD), CLP(B) and CLP(R) for generating strings containing integers, booleans and reals. This project was a joint work with the Niederrhein University of Applied Sciences and the periplus instruments GmbH & Co. KG.<br/><img width='30%' src='/images/clpstr-iban.png'>"
+excerpt: "In this project, we introduced a new string constraint solver for SWI-Prolog having interfaces to CLP(FD), CLP(B) and CLP(R) for generating strings containing integers, booleans and reals. This project was a joint work with the Niederrhein University of Applied Sciences and the periplus instruments GmbH & Co. KG.<br/><br/><img width='30%' src='/images/clpstr-iban.png'>"
 collection: portfolio
 ---
 
