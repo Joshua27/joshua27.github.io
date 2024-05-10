@@ -15,7 +15,7 @@ This includes the so-called fuzzing, in which a large number of randomly generat
 Fuzzing makes it possible to find data that lead to an error and thus possibly represent a security gap, as well as to gain a certain level of trust in your own software by running a large number of randomly generated tests.
 A fuzzer is usually able to generate a wide variety of test data, including corner cases that one would probably not think of when writing unit tests.
 
-<center><img width='60%' src='/images/b-ast.png'></center>
+<center><img width='60%' src='/images/b-ast.png'></center><br>
 
 The aim of this work was to implement a fuzzer for SICStus Prolog, which generally checks Prolog programs for robustness, but also specifically supports some of the data types used in ProB. This means that additional test methods can be integrated into ProB's kernel to examine its functionality and stability.
 Particular attention was paid to:

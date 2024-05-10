@@ -13,7 +13,7 @@ In consequence, to properly test applications one often has to resort to artific
 
 In this project, we evaluated to what extent constraint logic programming could be used for test data generation, in particular for generating strings. We are not concerned with software testing itself.
 
-<center><img width='50%' src='/images/clpstr-iban.png'></center>
+<center><img width='50%' src='/images/clpstr-iban.png'></center><br>
 
 The International Software Testing Qualifications Board (ISTQB) describes test data as data created or selected to satisfy the preconditions and inputs to execute one or more test cases.
 Test data may belong to the following categories:

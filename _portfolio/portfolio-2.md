@@ -6,8 +6,6 @@ collection: portfolio
 
 Dizziness is one of the most common medical symptoms. Both central and peripheral vestibular vertigo syndromes exhibit pathognomic involuntary eye movements. The cause can be a life-threatening stroke or a cerebral hemorrhage, each of which requires immediate intervention. On the other hand, disorders of the vestibular system are not considered time-critical. In order to differentiate the cause of dizziness, it is essential to record the associated eye movements in order to estimate the urgency of the necessary medical treatment.
 
-<center><img width='50%' src='/images/vertigo-app.png'></center>
-
 In the VertiGo project, a mobile videonystagmography for smartphones has been developed, which can be used independently without medical specialists, regardless of time and location.
 
 As part of the VertiGo project, an Android app was developed that has the following tasks:

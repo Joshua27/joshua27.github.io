@@ -17,6 +17,6 @@ Besides the actual implementation of program synthesis using constraint logic pr
 
 In the following, we can see a visualization of a trace of state changes (green side on the left) that leads to a state violating the invariant (red side on the right). The user can then decide whether the state violating the invariant should be removed from the model by synthesizing a stronger precondition for the operation leading to that invariant violating state, or to make the state valid by synthesizing a relaxed invariant.
 
-<center><img width='90%' src='/images/bsynthesis-example.png'></center>
+<center><img width='90%' src='/images/bsynthesis-example.png'></center><br>
 
 The GUI can be found on Github: [https://github.com/Joshua27/BSynthesis](https://github.com/Joshua27/BSynthesis)

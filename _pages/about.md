@@ -14,7 +14,7 @@ In 2015, I joined the STUPS group as a student assistant under the supervision o
 I completed my master's degree in close collaboration with the STUPS group in 2017.
 Afterward, I began working as a full-time research associate at the STUPS group and started my doctoral studies in 2018.
 During that time, we also started an interdisciplinary project ("VertiGo") with the University Hospital in Düsseldorf.
-Here, we implemented a smartphone app for the diagnostic and therapy of dizziness patients.
+Here, we implemented a smartphone app for the diagnosis and therapy of dizziness.
 In 2023, I received my doctorate in the field of formal software engineering.
 
 My scientific publications can be found on the [publication list](https://joshua27.github.io/publications/), on [Google scholar]() or [dblp](https://dblp.uni-trier.de/pid/179/7405.html).

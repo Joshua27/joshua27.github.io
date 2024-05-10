@@ -6,7 +6,7 @@ collection: portfolio
 
 ProB is an animator, constraint solver and model checker for the B-Method. The constraint-solving capabilities of ProB can be used for animation, model finding, constraint-based symbolic checking and test-case generation.
 
-<center><img width='90%' src='/images/prob2-ui.png'></center>
+<center><img width='90%' src='/images/prob2-ui.png'></center><br>
 
 The B language is rooted in predicate logic, arithmetic and set theory and provides support for data structures such as (higher-order) relations, functions and sequences. In addition to the B language, ProB also supports Event-B, CSP-M, TLA+, Alloy, and Z. ProB can be installed within [Rodin](http://sourceforge.net/projects/rodin-b-sharp/). ProB can also be used as a [Jupyter kernel](https://gitlab.cs.uni-duesseldorf.de/general/stups/prob2-jupyter-kernel) to generate interactive notebooks.
 
