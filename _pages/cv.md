@@ -20,7 +20,7 @@ Work experience
 * October 2017 until today: Researcher
   * Employer: University of Düsseldorf
   * Duties included: Research and teaching in formal methods, software engineering and artificial intelligence
-  * Used skills: Scientific research and presentation, Java, Python, Prolog, software testing, SMT-LIB, Z3, B-Method, Alloy, formal modeling, tensorflow, deep learning and computer vision 
+  * Used skills: Scientific research and presentation, Java, Kotlin, Python, Prolog, C++, software testing, SMT-LIB, Z3, B-Method, Alloy, formal modeling, tensorflow, deep learning and computer vision 
   * Supervisor: Prof. Dr. Michael Leuschel
 
 * September 2021 until December 2023: Technical Lead
