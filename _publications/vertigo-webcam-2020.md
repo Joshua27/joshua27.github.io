@@ -1,5 +1,5 @@
 ---
-title: "VertiGo – a pilot project in nystagmus detection via webcam"
+title: "VertiGo - a pilot project in nystagmus detection via webcam"
 collection: publications
 permalink: /publication/vertigo-webcam-2020
 excerpt: 'The aim of this study was to detect horizontal vestibular nystagmus utilizing a webcam. In the feasibility study, caloric induced vestibular nystagmus was recorded with conventional video-nystagmography and webcam.'
