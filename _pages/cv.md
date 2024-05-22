@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Dr. rer. nat. in Computer Science, University of Düsseldorf, 2023 (magna cum laude)
-* M.S. in Computer Science, University of Düsseldorf, 2017
-* B.S. in Computer Science, University of Düsseldorf, 2015
+* M.Sc. in Computer Science, University of Düsseldorf, 2017
+* B.Sc. in Computer Science, University of Düsseldorf, 2015
 
 Work experience
 ======
@@ -48,6 +48,8 @@ Patents
 ======
 * a patent application was filed with the Deutsches Patent- und Markenamt (DPMA) in February 2023 with the file number 10 2023 104 370.6 and the title "Verfahren zum Erfassen und Auswerten der Pupillenbewegungen eines Lebewesens, mobiles Gerät, Computerprogrammprodukt und computerlesbares Medium"
 * a PCT application to internationalize the above patent application was filed in February 2024
+* the patent applicant is the University of Düsseldorf
+* I am a one-sixth shareholder
 
 Skills
 ======
