@@ -20,6 +20,6 @@ As part of the VertiGo project, an Android app was developed that has the follow
 The "VertiGo" project was funded by the Federal Ministry of Education and Research.
 This project was a joint work of the chair of software engineering and programming languages at the University of Düsseldorf and the Clinic for Ear, Nose and Throat Medicine at the University Hospital of Düsseldorf.
 
-The VertiGo team took part in the startup accelerator program of the [Medical Innovations Incubator GmbH](https://mi-incubator.com/en/home/) (first batch in 2022).
+The VertiGo team took part in the startup accelerator program of the [Medical Innovations Incubator GmbH](https://mi-incubator.com/en/home/) (second batch in 2022).
 
 More information can be found [here](https://vertigo.stups.hhu.de).
