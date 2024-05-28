@@ -43,6 +43,7 @@ Work experience
   * Project: "Planungswerkzeug für überschneidungsfreies Studieren"
   * Website: [https://plues.github.io](https://plues.github.io)
   * Used skills: Java, JavaFX, software testing and Clojure
+  * Supervisor: Dr. David Schneider
 
 Patents
 ======
