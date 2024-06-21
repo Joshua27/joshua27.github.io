@@ -29,7 +29,7 @@ Work experience
   * Project: "VertiGo", funded by the Federal Ministry of Education and Research
   * Website: 
     * [https://www.interaktive-technologien.de/projekte/vertigo](https://www.interaktive-technologien.de/projekte/vertigo)
-    * [https://vertigo.stups.hhu.de](https://vertigo.stups.hhu.de)
+    * [https://stups.pages.cs.uni-duesseldorf.de/project/vertigo/](https://stups.pages.cs.uni-duesseldorf.de/project/vertigo/)
   * Used skills: Android, Kotlin, Python, C, C++, software testing, tensorflow, deep learning, computer vision, rule-based expert systems, project management, technical documentation and medical device regulation
   * Supervisor: Prof. Dr. Michael Leuschel
   * joint work with the University Hospital of Düsseldorf, Prof. Dr. med. Dr. h.c. Jörg Schipper
